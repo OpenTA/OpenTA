@@ -17,7 +17,7 @@ A patched original TotalA 3.1 executable provided with the project.
 # The Plan Summarized
 
 1) Convert compiled functions to C++ in project (32-bit) and carefully test each one.
-2) Test the resulting 32-bit OpenTA.exe.
-3) Convert from 32-bit dll to 64-bit exe.
+2) Test the resulting 32-bit OpenTA.dll/exe.
+3) Convert from 32-bit dll/exe to 64-bit exe.
 4) Replace all legacy 32-bit API references with updated 64-bit APIs.
 5) Test the resulting 64-bit OpenTA.exe.
